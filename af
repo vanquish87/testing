@@ -1,0 +1,17 @@
+[33mcommit d771ac9a9d83add25286a86cec0899f0c89d8f44[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Jasmeet Singh <mailtojasmeet@gmail.com>
+Date:   Sat Jun 25 23:18:23 2022 +0530
+
+    modified hello.py
+
+[33mcommit 7f8b60d746aaa7f97039bf8fbf800f7b9378b25c[m
+Author: Jasmeet Singh <mailtojasmeet@gmail.com>
+Date:   Sat Jun 25 23:16:14 2022 +0530
+
+    added views.py
+
+[33mcommit 9bd9b9fae44697ba711bab55cb57c6539fd9c95f[m
+Author: Jasmeet Singh <mailtojasmeet@gmail.com>
+Date:   Sat Jun 25 23:06:54 2022 +0530
+
+    first commit
